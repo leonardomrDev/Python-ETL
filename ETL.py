@@ -21,8 +21,8 @@ print("----------------------------------------------------------------");
 time.sleep(1.5);
 
 DATABASE_DIR = "sqlite:///played_tracks.sqlite"
-USER_ID = "21cf2atx3rchouuo3xzmvrwsi"#input("What is your Spotify User ID: ")
-API_TOKEN = "BQALEG-ZoU0uSHO-j4l8kXk5wRrGZnQmhOulnCUkXcIcUwJhpyUxXpkhFLZgH1KzFEfZ9Ihv-umnNI5MnsmHoXAsvjMz8ue45iqgVzvIpFOf8tMcAODFBJPc2Nd5HxY2Z4CXMYBpdbWZvLtvIhzwvy0Vx1uRTpz0PJ_GGXeY" #input("What is Authorization Token: ")
+USER_ID = ""# "What is your Spotify User ID"
+API_TOKEN = "" # "What is the Authorization Token"
 
 if __name__ == "__main__":
    
